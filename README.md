@@ -1,5 +1,11 @@
-Please set env:
+## About Project
 
-1. ACCESS_ID,
-2. ALERT_ID,
-3. ACCESS_TOKEN
+An application for job interview at Mention. Built in React.js
+
+---
+
+## Please set env:
+
+1. acount_id,
+2. alert_id,
+3. access_token
